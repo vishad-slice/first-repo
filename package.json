@@ -1,0 +1,23 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "Simple http server to practise dockerization",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishad-slice/first-repo.git"
+  },
+  "author": "Vishad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishad-slice/first-repo/issues"
+  },
+  "homepage": "https://github.com/vishad-slice/first-repo#readme"
+}
